@@ -1,0 +1,13 @@
+﻿  Timber.cpp
+C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Timber.cpp(262,39): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Timber.cpp(289,39): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Timber.cpp(349,31): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Timber.cpp(353,18): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Timber.cpp(377,27): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Timber.cpp(381,18): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Timber.cpp(404,27): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Timber.cpp(408,18): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Timber.cpp(430,27): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Timber.cpp(434,18): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Timber.cpp(460,18): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\Users\Mayank\Documents\Visual Studio 2019\Projects\Timber\Debug\Timber.exe
